@@ -10,7 +10,7 @@
 - 📚 Currently studying Computer Science 
 - 🧠 Interested in learning full-stack development and problem-solving
 - 🎯 Exploring career paths in tech and career consulting
-- 🌱 Currently improving my skills in **C, PHP, HTML, CSS, JavaScript, React**
+- 🌱 Currently improving my skills in **C, HTML, CSS, JavaScript, React**
 
 ---
 
@@ -19,7 +19,6 @@
 - Programming Languages: C, JavaScript (basic), React(Learning)
 - Web Development: HTML, CSS, Javascript
 - Tools: Git, GitHub, VS Code
-- Basic Knowledge: Networking, Database concepts
 
 ---
 
